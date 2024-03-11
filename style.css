@@ -1,0 +1,49 @@
+
+.nav{
+   text-align: center;
+   color: white;
+   background-color: black;
+   height: 40px;
+    
+}
+.main{
+    display: flex;
+    height: 100%;
+   
+
+}
+#button:hover{
+    color: green;
+    background-color: aliceblue;
+    font-size: 30px;
+    border-radius: 2px;
+}
+#button{
+    font-size: 20px;
+    
+}
+.side1{
+    width: 20%;
+    background-color:rgb(15, 145, 150);
+    border-radius: 8px;
+    box-shadow:0 5px 10px gray;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    margin-left: 70px;
+    height: 250px; 
+    margin-top: 60px;
+    
+}
+#image{
+    padding-left: 75px;
+    padding-bottom: 10px; 
+}
+.side2{
+    width: 60%;
+    background-color:rgb(15, 145, 150);
+    border-radius: 8px;
+    box-shadow:0 5px 10px gray;
+    margin-left: 20px;
+
+   
+}
